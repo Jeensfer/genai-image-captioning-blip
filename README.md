@@ -1,6 +1,6 @@
 ## Prototype Development for Image Captioning Using the BLIP Model and Gradio Framework
-#### Name: Gayathri K
-#### Reg No: 212223230061
+#### Name: Jeensfer Jo
+#### Reg No: 212225240058
 ### AIM:
 To design and deploy a prototype application for image captioning by utilizing the BLIP image-captioning model and integrating it with the Gradio UI framework for user interaction and evaluation.
 
