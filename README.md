@@ -60,7 +60,8 @@ demo = gr.Interface(
 demo.launch()
 ```
 ### OUTPUT:
-<img width="1011" height="496" alt="image" src="https://github.com/user-attachments/assets/b4198632-84aa-4857-8b9c-af612bf01b12" />
+<img width="1701" height="503" alt="image" src="https://github.com/user-attachments/assets/7563eb80-72c8-4bc1-9215-535970fa3753" />
+
 
 ### RESULT:
 The Image Captioning application successfully generates an accurate text description for the uploaded image and displays the generated caption through the Gradio interface.
